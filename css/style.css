@@ -269,8 +269,7 @@ div {
       max-width: 100%;
       padding: 0.5em 0;
       margin: 0 auto;
-      display: block;
-      align: center; }
+      display: block; }
     .post .post-content ul,
     .post .post-content ol {
       border-radius: 3px;
